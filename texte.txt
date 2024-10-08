@@ -1,0 +1,1 @@
+si je creer deux fonction disctinct apars et que ensuite je fais mon if else 
